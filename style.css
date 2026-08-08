@@ -8,14 +8,14 @@
 body {
   font-family: Arial, sans-serif;
   background: #f4f4f4;
-  color: #333;
+  color: #f26565;
   min-height: 100vh;
   display: flex;
   flex-direction: column;
 }
 
 header, footer {
-  background: #333;
+  background: #180505;
   color: #fff;
   text-align: center;
   padding: 1rem;
@@ -61,5 +61,5 @@ button {
 
 .task-list li.completed {
   text-decoration: line-through;
-  color: #888;
+  color: #e82020;
 }
