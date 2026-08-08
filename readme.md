@@ -4,7 +4,7 @@
 You are required to implement the Task Bar functionality in this project. The app should allow users to:
 
 Add new tasks dynamically
-
+ i have added the tasks of list 
 Mark tasks as complete
 
 Delete tasks
